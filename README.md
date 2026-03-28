@@ -27,4 +27,4 @@ my-portfolio/
 Dheeraj Sharma
 
 - GitHub: https://github.com/hundered-art
-- Linkedin: https://linkedin.com/in/dheerajsharma
+- Linkedin: https://linkedin.com/in/dheeraj-sharma144664310
